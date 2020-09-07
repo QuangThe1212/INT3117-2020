@@ -1,1 +1,1 @@
-6.b My level is 2 : testing shows the program doesn’t work.
+6.b Cấp độ kiểm thử của em hiện tại là cấp độ 2: chỉ ra các lỗi sai của chương trình.
